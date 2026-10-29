@@ -1,0 +1,6 @@
+{
+  "name": "Angèle Om Yoga — Studio La Rochelle",
+  "description": "Studio de yoga au cœur de La Rochelle : Hatha, Yin, Vinyasa, Pilates & Yogathérapie. Cours collectifs, particuliers et plein air par Angèle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
